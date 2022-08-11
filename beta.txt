@@ -1,1 +1,1 @@
-alpha gamma
+alpha gamma theta*2
